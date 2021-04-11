@@ -1,0 +1,10 @@
+C:\Users\Екатерина\Desktop\LAB_2\LAB_2\bin\Debug\LAB_2.exe.config
+C:\Users\Екатерина\Desktop\LAB_2\LAB_2\bin\Debug\LAB_2.exe
+C:\Users\Екатерина\Desktop\LAB_2\LAB_2\bin\Debug\LAB_2.pdb
+C:\Users\Екатерина\Desktop\LAB_2\LAB_2\obj\Debug\LAB_2.csprojAssemblyReference.cache
+C:\Users\Екатерина\Desktop\LAB_2\LAB_2\obj\Debug\LAB_2.Form1.resources
+C:\Users\Екатерина\Desktop\LAB_2\LAB_2\obj\Debug\LAB_2.Properties.Resources.resources
+C:\Users\Екатерина\Desktop\LAB_2\LAB_2\obj\Debug\LAB_2.csproj.GenerateResource.cache
+C:\Users\Екатерина\Desktop\LAB_2\LAB_2\obj\Debug\LAB_2.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\LAB_2\LAB_2\obj\Debug\LAB_2.exe
+C:\Users\Екатерина\Desktop\LAB_2\LAB_2\obj\Debug\LAB_2.pdb
