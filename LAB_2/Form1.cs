@@ -59,7 +59,7 @@ namespace LAB_2
 
         private void button5_Click(object sender, EventArgs e)
         {
-            double a = Convert.ToDouble(textBox1.Text);
+            int a = Convert.ToInt32(textBox1.Text);
             double c;
             c = Math.Sqrt(a);
             textBox3.Text = Convert.ToString(c);
